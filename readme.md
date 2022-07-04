@@ -1,1 +1,1 @@
-## Express API Shopping List COmpleted for Springboard Unit 32.2
+## Express API Shopping List Completed for Springboard Unit 32.2
